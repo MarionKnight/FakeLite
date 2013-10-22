@@ -1,0 +1,6 @@
+To create docs with rdoc: 
+
+(1) edit the README to talk about the code
+(2) type rdoc at the prompt
+
+This created a set of linked html docs
